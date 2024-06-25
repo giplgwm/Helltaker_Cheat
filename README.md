@@ -1,5 +1,7 @@
 # Helltakercheat
-A simple cheat for [Helltaker on Steam](https://store.steampowered.com/app/1289310/Helltaker/). 
+A simple cheat for [Helltaker on Steam](https://store.steampowered.com/app/1289310/Helltaker/).
+
+![Preview image](helltaker_preview.png "Preview Image")
 
 ## Installation:
 1. Download `MelonLoader` by following the installation steps under *Automated Installation* [here](https://melonwiki.xyz/#/?id=requirements) 
